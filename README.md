@@ -1,14 +1,16 @@
 A selection of enticing/sweet-smelling open source projects to read.
 
-### Small-size
+### Small-sized
 
-### Meduim-size
+- 
+
+### Meduim-sized
 
 - [mininet-wifi](https://github.com/intrig-unicamp/mininet-wifi)
   [`python`, `c`, `SDN`, `Networking`, `emulator`]
 - [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
   [`rust`, `Networking`, `edu`]
 
-### Large-size
+### Large-sized
 
 - [EdgeDB](https://github.com/edgedb/edgedb)
