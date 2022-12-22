@@ -1,4 +1,4 @@
-A selection of enticing/sweet-smelling open source projects to read.
+A selection of sweet-smelling open source projects to read.
 
 ### Small-sized
 
