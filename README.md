@@ -2,7 +2,8 @@ A selection of sweet-smelling open source projects to read.
 
 ### Small-sized
 
-- 
+- [fastapi-permissions: A library that ports the permissions model used in Pyramid to FastAPI](https://github.com/holgi/fastapi-permissions)
+  [`fastapi`, `security`]
 
 ### Meduim-sized
 
